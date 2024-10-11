@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap">
+    <title>Bài viết về IoT</title>
+    <style>body {
+        font-family: 'Times New Roman', Times, serif;
+        background-color: #f4f4f4;
+        margin: 20px;
+        padding: 20px;
+    }
+    .container {
+        max-width: 800px;
+        margin: 50px auto;
+        background-color: white;
+        padding: 50px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    h1 {
+        font-size: 26px;
+        color: #3498db;
+        text-align:left;
+    }
+    h2 {
+        font-size: 26px;
+        color: #16a085;
+        margin-top: 30px;
+        border-bottom: 2px solid #16a085;
+        padding-bottom: 10px;
+    }
+    h3 {
+        font-size: 22px;
+        color: #3498db;
+        margin-top: 20px;
+    }   
+    .featured-image {
+        display: block;
+        margin: 20px auto;
+        max-width: 100%;
+        height: auto;
+    } 
+    p {
+        font-size: 20px;
+        line-height: 1.5;
+        color: #333;
+        margin: 5px 0;
+    }   
+    strong {
+        color: #333;
+    }
+    footer {
+        background-color: wheat;
+        color: white;
+        text-align:center;
+        padding: 20px 0;
+        margin-top: 40px;
+        
+    }
+    .footer-content p {
+        margin: 10px 0;
+        text-align: center; 
+    }
+    .social-links {
+        font-size: 25px;
+        display: flex;
+        justify-content: space-around; 
+    }
+    .social-links a {
+        color: #3498db;
+        text-decoration: none;
+        margin: 0 10px;  
+        font-size: 20px;
+        transition: color 0.3s ease-in-out;
+    }
+    .social-links a:hover {
+    color: #1e0ff1;  
+    }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>IoT là gì? Ứng dụng của IoT trong cuộc sống hiện đại</h1>
+        <p><strong>Sự bùng nổ của Internet of Things có tác động mạnh mẽ tới hoạt động sản xuất kinh doanh, đời sống và xã hội. Tác động của IoT rất đa dạng, trên nhiều lĩnh vực: Quản lý hạ tầng, y tế, xây dựng và tự động hóa, giao thông…</strong> Tuy nhiên, dù đã xuất hiện trong một thời gian dài nhưng thuật ngữ “Internet of Things” vẫn còn khá xa lạ với nhiều người. Vậy Internet of Things được định nghĩa như thế nào? Ứng dụng của Internet of Things vào trong cuộc sống ngày nay phổ biến ra sao? Cùng tìm hiểu qua bài viết dưới đây.</p>
+        <h2>1. IoT là gì?</h2>
+        <p><strong>IoT là viết tắt của Internet of Things</strong>hay còn được gọi là Mạng lưới vạn vật kết nối internet hoặc gọi tắt là Vạn vật kết nối. Năm 2013, tổ chức Global Standards Initiative on Internet of Things (IoT-GSI) định nghĩa: “IoT là hạ tầng cơ sở toàn cầu phục vụ cho xã hội thông tin. Nó hỗ trợ các dịch vụ (điện toán) chuyên sâu thông qua các vật thể (cả thực lẫn ảo) được kết nối với nhau nhờ vào công nghệ thông tin và truyền thông hiện hữu được tích hợp, và với mục đích ấy một “vật” là “một thứ trong thế giới thực (vật thực) hoặc thế giới thông tin (vật ảo), mà vật đó có thể được nhận dạng và được tích hợp vào một mạng lưới truyền thông”.</p>
+        <p>Dễ hiểu hơn, Internet of Things (IoT) là mạng kết nối các thiết bị và đồ vật thông qua cảm biến, phần mềm và các công nghệ khác, cho phép các đồ vật và thiết bị thu thập và trao đổi dữ liệu với nhau.</p>
+        <img src="https://fast.com.vn/uploads/news/He-thong-thong-tin/IoT-ung-dung.png" alt="Mô tả hình ảnh" class="featured-image">
+        <h2>2. Tại sao IoT quan trọng?</h2>
+        <p>Trong vài năm qua, IoT đã trở thành một trong những công nghệ quan trọng. IoT giúp mọi người sống và làm việc thông minh hơn, cũng như chủ động hoàn toàn trong cuộc sống.</p>
+        <p>IoT cung cấp các thiết bị thông minh để tự động hóa ngôi nhà. Với IoT, người dùng có thể khởi động các thiết bị trong nhà như hệ thống chiếu sáng, điều hòa, bình nóng lạnh tự động… bằng điện thoại thông minh hay máy tính bảng. Các thao tác hẹn giờ, thay đổi nhiệt độ được thực hiện nhanh chóng và dễ dàng trên thiết bị thông minh, giúp tiết kiệm tối đa thời gian sử dụng và lượng điện tiêu thụ, tránh trường hợp quên tắt các thiết bị khi đi ra ngoài.</p>
+        <p>IoT là yếu tố cần thiết đối với hoạt động kinh doanh. IoT giúp cho doanh nghiệp nắm được cách thức mà doanh nghiệp của họ vận hành theo thời gian thực, cung cấp thông tin chi tiết về mọi thứ từ hiệu suất của máy móc đến chuỗi cung ứng và hoạt động hậu cần.</p>
+        <p>IoT cho phép các công ty tự động hóa các quy trình và giảm chi phí lao động. Nó cũng cắt giảm chất thải và cải thiện việc cung cấp dịch vụ, làm cho việc sản xuất và giao hàng ít tốn kém hơn, cũng như mang lại sự minh bạch trong các giao dịch của khách hàng.</p>
+        <p>Do đó, IoT là một trong những công nghệ quan trọng nhất của cuộc sống hàng ngày và nó sẽ tiếp tục tăng trưởng khi có nhiều doanh nghiệp nhận ra tiềm năng của các thiết bị được kết nối để giữ cho chúng cạnh tranh.</p>
+        <h2>3. Cấu trúc của hệ thống IoT</h2>
+        <p>Cấu trúc của một hệ thống IoT thường bao gồm các lớp chính sau:</p>
+        <p><strong>Thiết bị (Things):</strong>Lớp này chứa các thiết bị IoT, bao gồm cảm biến, actuators, và các thiết bị thông minh khác thu thập dữ liệu từ môi trường hoặc thực hiện các hành động cụ thể. Đây là nơi xuất phát của dữ liệu trong hệ thống.</p>
+        <p><strong>Trạm kết nối (Gateways):</strong> Lớp Gateway đóng vai trò như là cầu nối giữa thiết bị và hạ tầng mạng. Nó có thể thực hiện chức năng lọc dữ liệu, xử lý cơ bản và truyền tải dữ liệu từ nhiều thiết bị về hạ tầng mạng.</p>
+        <p><strong>Hạ tầng mạng (Network and Cloud):</strong>Lớp này bao gồm các cơ sở hạ tầng mạng, đặc biệt là môi trường đám mây (cloud) nơi dữ liệu từ thiết bị được chuyển đến và lưu trữ. Hạ tầng mạng cũng cung cấp các dịch vụ như tích hợp, xử lý dữ liệu, và lưu trữ.</p>
+        <p><strong>Bộ phân tích và xử lý dữ liệu (Services-creation and solution layers):</strong>Lớp này chứa các dịch vụ và giải pháp được tạo ra để xử lý và phân tích dữ liệu từ thiết bị IoT. Bao gồm các công nghệ như trí tuệ nhân tạo (AI), machine learning, và các dịch vụ tạo ra giải pháp thông minh và dự đoán.</p>
+        <img src="https://fast.com.vn/wp-content/uploads/2023/01/cau-truc-he-thong-IOT.jpg" alt="Mô tả hình ảnh" class="featured-image">
+        <h2>4. Cách thức IoT vận hành</h2>
+        <p>Một hệ sinh thái IoT bao gồm các thiết bị web-enabled (web kích hoạt) thông minh được nhúng vào trong hệ thống, chẳng hạn như bộ xử lý, cảm biến và phần cứng truyền thông, để thu thập, gửi và thực hiện hành động trên dữ liệu mà chúng thu thập được. Dữ liệu thu thập có thể đơn giản là nhiệt độ, độ ẩm… hoặc phức tạp hơn là video, hình ảnh…</p>
+        <p>Các thiết bị IoT chia sẻ dữ liệu cảm biến mà chúng thu thập được bằng cách kết nối với cổng IoT hoặc thiết bị cảm biến khác, nơi dữ liệu được gửi lên cloud (đám mây) để phân tích hoặc phân tích cục bộ. Đôi khi, các thiết bị này giao tiếp với các thiết bị liên quan khác và hoạt động dựa trên thông tin chúng nhận được từ nhau. Các thiết bị thực hiện hầu hết công việc mà không có sự can thiệp của con người, mặc dù mọi người có thể tương tác với các thiết bị.</p>
+        <p>Các giao thức kết nối, mạng và cách thức giao tiếp được sử dụng với các thiết bị web-enabled này phần lớn phụ thuộc vào các ứng dụng IoT cụ thể được triển khai.</p>
+        <p>IoT cũng có thể tận dụng trí tuệ nhân tạo (AI) và máy học để giúp cho quá trình thu thập dữ liệu trở nên dễ dàng và chủ động hơn.</p>
+        <img src="https://fast.com.vn/uploads/news/He-thong-thong-tin/IoT-ung-dung-2.png" alt="Mô tả hình ảnh" class="featured-image">
+        <p>Cách hệ thống IoT hoạt động từ việc thu thập dữ liệu đến thực hiện hành động</p>
+        <h2>5. Ứng dụng IoT trong cuộc sống hiện đại</h2>
+        <h3>Nhà và văn phòng thông minh</h3>
+        <p>Nhà thông minh là một ví dụ điển hình về IoT. Trong ngôi nhà thông minh các thiết bị điện tử dân dụng như đèn, quạt, máy lạnh… có thể được kết nối với nhau thông qua mạng internet. Sự kết nối này cho phép người dùng vận hành các thiết bị này từ xa. Một ngôi nhà thông minh có khả năng điều khiển ánh sáng, quản lý năng lượng, mở rộng và truy cập từ xa.</p>
+        <p>Hiện tại, ứng dụng IoT này không được sử dụng rộng rãi do chi phí lắp đặt quá cao, khó có khả năng chi trả.</p>
+        <img src="https://fast.com.vn/uploads/news/He-thong-thong-tin/IoT-ung-dung-3.png" alt="Mô tả hình ảnh" class="featured-image">
+        <h3>Thiết bị đeo được (Wearable)</h3>
+        <p>Đồng hồ thông minh là ví dụ tiêu biểu về các thiết bị đeo tay thông minh. Đồng hồ thông minh có khả năng đọc tin nhắn văn bản, hiển thị thông báo về các ứng dụng khác, theo dõi vị trí, theo dõi trạng thái tập luyện, nhắc nhở lịch trình và liên tục theo dõi tình trạng sức khỏe. Ngoài ra còn có một số thiết bị đeo được khác như: Kính thực tế ảo, vòng đeo thông minh, tai nghe không dây…</p>
+        <img src="https://fast.com.vn/uploads/news/He-thong-thong-tin/IoT-ung-dung-4.png" alt="Mô tả hình ảnh" class="featured-image">
+        <h3>Nông nghiệp thông minh</h3>
+        <p>Nếu như trước đây toàn bộ quá trình nông nghiệp đều phụ thuộc vào sức lao động con người thì giờ đây được đơn giản hóa nhờ sự xuất hiện của máy móc và công nghệ. Ứng dụng IoT trong ngành trồng trọt giúp nông dân có thể kiểm soát và nắm bắt những thông tin cần thiết như thời điểm tốt nhất thu hoạch, độ dinh dưỡng của đất, lượng phân bón phù hợp, độ ẩm của đất…</p>
+        <p>Những mô hình trang trại chăn nuôi thông minh cũng dần ra đời với những tiến bộ của IoT giúp cho người chủ kiểm soát và thu thập các dữ liệu cần thiết về nhiệt độ chuồng, độ ẩm không khí hoặc dữ liệu sức khỏe của vật nuôi… từ đó tiết kiệm sức lao động và nâng cao năng suất.</p>
+        <img src="https://fast.com.vn/wp-content/uploads/2023/01/nong-nghiep-thong-minh-Fast.jpg" alt="Mô tả hình ảnh" class="featured-image">
+        <h3>Phân tích dữ liệu lớn (Big Data Analytics)</h3>
+        <p>Một trong những thành phần cơ bản của phân tích dữ liệu lớn (Big data) chính là bản thân của dữ liệu đó; nhiều tổ chức coi dữ liệu là tài sản quý giá nhất để phát triển chiến lược kinh doanh của họ. Nguồn dữ liệu có thể từ bất kỳ đâu như máy móc, môi trường, thực vật, con người hoặc thậm chí động vật.</p>
+        <p>Internet of Things sử dụng hàng trăm loại cảm biến được thiết kế để thu thập dữ liệu từ nhiều loại ứng dụng. Lượng dữ liệu khổng lồ từ hàng triệu cảm biến thông minh sẽ giúp cho việc phân tích dữ liệu cần sử dụng trí tuệ nhân tạo và máy học cải thiện được các thuật toán ra quyết định.</p>
+        <h3>Ô tô tự lái</h3>
+        <p>Ô tô tự lái là một trong những dòng ô tô thông minh đã và đang phát triển với việc ứng dụng trí tuệ nhân tạo (AI) và công nghệ cảm biến thông minh trong IoT. Một trong những thành phần quan trọng của IoT trong ô tô là các cảm biến thông minh liên tục thu thập các thông tin về xe, tình trạng giao thông, các phương tiện khác và các đối tượng khác trên đường đi.</p>
+        <p>Hệ thống bao gồm các đơn vị camera, cảm biến khoảng cách, RADAR, mảng ăng-ten RF để thu thập thông tin và giúp xe đưa ra quyết định dựa trên những thay đổi đột ngột trên đường. Các phương tiện và đồ vật thông minh có thể chia sẻ thông tin với nhau bằng công nghệ RF.</p>
+        <p>Khi dữ liệu khổng lồ được thu thập, AI có thể dự đoán được các tình huống nhất định trên đường đi, cảnh báo tình trạng trên đường và phương tiện, hỗ trợ người lái xe an toàn, tránh va chạm.</p>
+        <p>Ví dụ: Hỗ trợ kiểm soát hành trình, quản lý nhiên liệu, thông báo có tai nạn trên tuyến đường, tình trạng giao thông đông đúc ở một tuyến đường cụ thể…</p>
+        <footer>
+            <div class="footer-content">
+                <p> 2024 My Website. All Rights Reserved.</p>
+                <div class="social-links">
+                    <a href="#" target="_blank"><i class="fab fa-facebook"></i> Facebook</a>
+                </div>
+            </div>
+        </footer>
+    </div>
+</body>
+</html>
